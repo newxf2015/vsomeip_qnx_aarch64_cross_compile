@@ -64,7 +64,7 @@ SET(CMAKE_FIND_ROOT_PATH ${QNX_TARGET})
 SET(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
 SET(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)
 SET(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE ONLY)
-
+#TODO
 set(Boost_FOUND TRUE)
 #set(Boost_DIR /home/xiongfeng/workspace/github/vsomeip-qnx-master/boost_1_55_0/qnx_boost)
 #set(Boost_DIR /home/xiongfeng/workspace/github/vsomeip-qnx-master/boost_1_70_0/qnx_boost)
