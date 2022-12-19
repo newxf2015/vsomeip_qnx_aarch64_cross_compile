@@ -1,0 +1,1 @@
+# vsomeip_qnx_aarch64_cross_compile
